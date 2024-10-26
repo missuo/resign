@@ -16,7 +16,7 @@ go build.
 
 ## Demo
 
-[https://sign.missuo.com](https://sign.missuo.com)
+[https://sign.missuo.me](https://sign.missuo.me)
 
 ![demo](./screenshots/demo.png)
 
