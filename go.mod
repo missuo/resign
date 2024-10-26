@@ -1,4 +1,4 @@
-module github.com/missuo/online-resign
+module github.com/missuo/resign
 
 go 1.23.2
 
