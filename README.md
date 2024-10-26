@@ -1,6 +1,6 @@
 # Resign
 
-IPA resigned API service implemented in Go.
+IPA online re-sign API service. It can completely replace Esign and Universal-sign.
 
 ## Preconditions
 
