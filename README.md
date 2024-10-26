@@ -10,7 +10,7 @@ IPA resigned API service implemented in Go.
 ## Usage
 
 ```bash
-go build.
+go build .
 ./resign --base_url=https://example.com --port=9900
 ```
 
