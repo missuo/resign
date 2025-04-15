@@ -1,3 +1,15 @@
+/*
+ * @Author: Vincent Yang
+ * @Date: 2024-10-25 20:51:53
+ * @LastEditors: Vincent Yang
+ * @LastEditTime: 2025-04-15 11:37:46
+ * @FilePath: /resign/main.go
+ * @Telegram: https://t.me/missuo
+ * @GitHub: https://github.com/missuo
+ *
+ * Copyright © 2025 by Vincent, All Rights Reserved.
+ */
+
 package main
 
 import (
