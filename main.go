@@ -71,7 +71,7 @@ type IPAInfo struct {
 
 func init() {
 	// Define command line flags
-	flag.StringVar(&baseURL, "base-url", "http://localhost:8080", "Base URL for generated download links")
+	flag.StringVar(&baseURL, "base-url", "", "Base URL for generated download links")
 	flag.StringVar(&port, "port", "8080", "Port to listen on")
 
 	// Parse command line arguments
